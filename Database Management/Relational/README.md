@@ -8,7 +8,7 @@ This project was completed as part of the WGU D597: Relational Database Design a
 
 📌 Project Overview
 
-EcoMart needed a scalable, organized way to manage a growing volume of product and sales data across multiple categories and regions. The existing data—structured as a flat CSV file with 100,000+ sales records—was difficult to analyze efficiently.
+EcoMart needed a scalable, organized way to manage a growing volume of product and sales data across multiple categories and regions. The existing data-structured as a flat CSV file with 100,000+ sales records-was difficult to analyze efficiently.
 
 🧩 Solution
 
@@ -30,7 +30,7 @@ The database supports complex queries across product performance, regional profi
 
     ✅ Primary key and foreign key relationships for relational structure
 
-    ✅ Query optimization using best practices for indexing and aggregation
+    ✅ Query optimization using best practices - in this project, I used direct referencing
 
     ✅ SQL scripts for schema creation, data import, and analytical queries
 
