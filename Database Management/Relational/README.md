@@ -1,13 +1,15 @@
-# WGU-Portfolio
+# Database Management
 
 ![My Image](SalesRecordsERD.png)
 
 📦 EcoMart Relational Database Project
 
 This project was completed as part of the WGU D597: Relational Database Design and Implementation course. It involves designing and implementing a relational database solution for EcoMart, a fictional online marketplace focused on sustainable and eco-friendly products.
+
 📌 Project Overview
 
 EcoMart needed a scalable, organized way to manage a growing volume of product and sales data across multiple categories and regions. The existing data—structured as a flat CSV file with 100,000+ sales records—was difficult to analyze efficiently.
+
 🧩 Solution
 
 A normalized relational database was designed and implemented using PostgreSQL hosted locally via pgAdmin 4. The schema includes four core tables:
@@ -21,6 +23,7 @@ A normalized relational database was designed and implemented using PostgreSQL h
     Countries – supports geographic reporting
 
 The database supports complex queries across product performance, regional profitability, and sales trends.
+
 🔍 Key Features
 
     ✅ Data normalization for reduced redundancy and improved integrity
