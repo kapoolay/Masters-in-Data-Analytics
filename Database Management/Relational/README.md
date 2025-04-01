@@ -1,4 +1,4 @@
-# Database Management
+# Relational Database Management
 
 ![My Image](SalesRecordsERD.png)
 
