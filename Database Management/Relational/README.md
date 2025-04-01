@@ -1,6 +1,6 @@
 # WGU-Portfolio
 
-![My Image]("Sales Records ERD.png")
+![My Image](SalesRecordsERD.png)
 
 📦 EcoMart Relational Database Project
 
