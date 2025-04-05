@@ -47,6 +47,7 @@ The projects in this repo demonstrate my ability to design, implement, and optim
     Demonstrated functionality and performance improvements.
 
 📂 See project folder: /Relational (PostgreSQL)
+
 2. Task 2: HealthFit Innovations — Non-Relational Database Design
 
     Built using MongoDB & mongosh
@@ -64,6 +65,7 @@ The projects in this repo demonstrate my ability to design, implement, and optim
     Solved business challenges related to patient engagement and device performance.
 
 📂 See project folder: /Non-Relational (MongoDB)
+
 🧭 Skills Demonstrated
 
     Data architecture decision-making
