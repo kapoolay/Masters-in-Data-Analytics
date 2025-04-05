@@ -31,7 +31,6 @@ The projects in this repo demonstrate my ability to design, implement, and optim
 
 📦 Projects Included
 1. Task 1: EcoMart — Relational Database Design
-    📂 See project folder: /Relational (PostgreSQL)
 
     Built using PostgreSQL & pgAdmin 4
 
@@ -48,7 +47,6 @@ The projects in this repo demonstrate my ability to design, implement, and optim
     Demonstrated functionality and performance improvements.
 
 2. Task 2: HealthFit Innovations — Non-Relational Database Design 
-    📂 See project folder: /Non-Relational (MongoDB)
 
     Built using MongoDB & mongosh
 
