@@ -1,0 +1,5 @@
+# Import medical records
+mongoimport --db D597_Task_2 --collection medical_records --file path/to/medical_shortened.json --jsonArray
+
+# Import fitness data
+mongoimport --db D597_Task_2 --collection fitness_data --file path/to/Task2Scenario1\ Dataset\ 1_fitness_trackers.json --jsonArray
