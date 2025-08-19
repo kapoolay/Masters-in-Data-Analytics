@@ -4,7 +4,7 @@
 
 📦 EcoMart Relational Database Project
 
-This project was completed as part of the WGU D597: Relational Database Design and Implementation course. It involves designing and implementing a relational database solution for EcoMart, a fictional online marketplace focused on sustainable and eco-friendly products.
+This project was completed as part of the Relational Database Design and Implementation course. It involves designing and implementing a relational database solution for EcoMart, a fictional online marketplace focused on sustainable and eco-friendly products.
 
 📌 Project Overview
 
