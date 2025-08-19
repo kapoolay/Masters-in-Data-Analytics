@@ -106,4 +106,4 @@ The projects in this repo demonstrate my ability to design, implement, and optim
 
     Delivered well-documented, organized solutions.
 
-Note: These projects were completed as part of academic coursework at Western Governors University (WGU). Datasets are for educational use only.
+**Note**: This project was completed as part of coursework. Datasets and code are for educational use only and may not be publicly shared.

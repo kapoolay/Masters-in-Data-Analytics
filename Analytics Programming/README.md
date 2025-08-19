@@ -78,4 +78,4 @@ The tasks in this repository demonstrate my ability to write, document, and pres
 - Delivered insights using both metrics and visualizations
 - Clearly communicated technical work through video and documentation
 
-> **Note**: This project was completed as part of coursework at Western Governors University (WGU). Datasets and code are for educational use only and may not be publicly shared.
+> **Note**: This project was completed as part of coursework. Datasets and code are for educational use only and may not be publicly shared.
