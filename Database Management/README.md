@@ -1,6 +1,6 @@
-📊 Data Management — WGU D597 Class Projects
+📊 Data Management Projects
 
-This repository showcases projects completed for the WGU D597: Data Management course. The class focuses on building practical skills in both relational and non-relational databases, preparing for real-world data architecture and querying needs.
+This repository showcases projects completed for the Data Management course. The class focuses on building practical skills in both relational and non-relational databases, preparing for real-world data architecture and querying needs.
 
 The projects in this repo demonstrate my ability to design, implement, and optimize data solutions for different business scenarios.
 🧩 Course Topics Covered
