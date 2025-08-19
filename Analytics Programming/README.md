@@ -1,4 +1,4 @@
-# 📊 Analytics Programming — WGU D598 Class Project
+# 📊 Analytics Programming Project
 
 This repository contains my project work for **D598: Analytics Programming** at Western Governors University. The course builds foundational skills in Python for data analysis, cleaning, and visualization — essential tools for working as a data analyst or data engineer.
 
