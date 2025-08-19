@@ -1,0 +1,31 @@
+BEGIN
+
+IMPORT pandas AS pd
+
+LOAD Excel file "D598 Data Set.xlsx" INTO dataframe df
+
+// Step 1: Check for duplicate rows
+FIND duplicate rows IN df
+STORE duplicates IN df_duplicates
+
+// Step 2: Group by state and calculate statistics
+GROUP df BY 'Business State'
+CALCULATE mean, median, min, max FOR all numeric columns
+STORE result IN df_stats_by_state
+
+// Step 3: Identify businesses with negative debt-to-equity ratio
+FILTER df WHERE 'Debt-to-Equity Ratio' < 0
+STORE result IN df_negative_de_ratio
+
+// Step 4: Calculate debt-to-income ratio
+FOR each row IN df:
+    CALCULATE 'Debt-to-Income Ratio' = 'Long-Term Debt' / 'Revenue'
+    ADD new column 'Debt-to-Income Ratio' TO df
+
+// Step 5: Concatenate new ratio to original data
+STORE result IN df_final
+
+// Optional: Save or display result
+DISPLAY df_final OR SAVE to Excel
+
+END
