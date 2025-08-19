@@ -4,7 +4,7 @@
 
 📦 HealthFit Innovations — NoSQL Database Project
 
-This project was completed as part of the WGU D597: Non-Relational Database Design and Implementation course. It involves designing and implementing a NoSQL database solution for HealthFit Innovations, a health technology company integrating fitness tracker data with patient medical records to provide proactive healthcare insights.
+This project was completed as part of the Non-Relational Database Design and Implementation course. It involves designing and implementing a NoSQL database solution for HealthFit Innovations, a health technology company integrating fitness tracker data with patient medical records to provide proactive healthcare insights.
 📌 Project Overview
 
 HealthFit Innovations is building HealthTrack, a platform that combines data from wearable fitness trackers and electronic medical records. The goal is to help healthcare providers and patients monitor health trends in real time, detect early warning signs, and support personalized care decisions.
