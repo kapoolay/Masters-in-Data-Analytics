@@ -1,6 +1,6 @@
 # Data Preparation & Exploration  
 
-This repository showcases a complete data analytics project focused on the **early stages of the data analytics life cycle** — cleaning, exploration, hypothesis testing, and preparing data for advanced analysis.  
+This repository showcases a complete data analytics project focused on the **early stages of the data analytics life cycle** - cleaning, exploration, hypothesis testing, and preparing data for advanced analysis.  
 
 The project demonstrates how analytical programming skills in **Python** can be applied to retail sales data from **Allias Megastore** to uncover trends, test hypotheses, and generate actionable business insights.  
 

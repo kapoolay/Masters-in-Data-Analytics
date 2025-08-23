@@ -1,6 +1,6 @@
 # 📊 Analytics Programming Project
 
-This repository contains my project work for the **Analytics Programming** course. The course builds foundational skills in Python for data analysis, cleaning, and visualization — essential tools for working as a data analyst or data engineer.
+This repository contains my project work for the **Analytics Programming** course. The course builds foundational skills in Python for data analysis, cleaning, and visualization - essential tools for working as a data analyst or data engineer.
 
 The tasks in this repository demonstrate my ability to write, document, and present analytic code that answers business questions using real-world data.
 
