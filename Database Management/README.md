@@ -106,4 +106,4 @@ The projects in this repo demonstrate my ability to design, implement, and optim
 
     Delivered well-documented, organized solutions.
 
-**Note**: This project was completed as part of coursework. Datasets and code are for educational use only and may not be publicly shared.
+<!-- **Note**: This project was completed as part of coursework. Datasets and code are for educational use only and may not be publicly shared. -->
