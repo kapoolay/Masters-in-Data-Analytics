@@ -30,7 +30,7 @@ The projects in this repo demonstrate my ability to design, implement, and optim
     Applying data solutions to real-world business problems
 
 📦 Projects Included
-1. Task 1: EcoMart — Relational Database Design
+1. Task 1: EcoMart - Relational Database Design
 
     Built using PostgreSQL & pgAdmin 4
 
@@ -46,7 +46,7 @@ The projects in this repo demonstrate my ability to design, implement, and optim
 
     Demonstrated functionality and performance improvements.
 
-2. Task 2: HealthFit Innovations — Non-Relational Database Design 
+2. Task 2: HealthFit Innovations - Non-Relational Database Design 
 
     Built using MongoDB & mongosh
 

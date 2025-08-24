@@ -2,7 +2,7 @@
 
 ![My Image](mongosh.png)
 
-📦 HealthFit Innovations — NoSQL Database Project
+📦 HealthFit Innovations - NoSQL Database Project
 
 This project was completed as part of the Non-Relational Database Design and Implementation course. It involves designing and implementing a NoSQL database solution for HealthFit Innovations, a health technology company integrating fitness tracker data with patient medical records to provide proactive healthcare insights.
 📌 Project Overview
@@ -14,9 +14,9 @@ The company needed a flexible and scalable database solution to handle the incre
 
 A NoSQL document database was designed and implemented using MongoDB. The solution organizes data into two collections:
 
-    medical_records — stores patient information, medical conditions, medications, and appointment history.
+    medical_records - stores patient information, medical conditions, medications, and appointment history.
 
-    fitness_data — contains fitness tracker product information, such as brand, battery life, and customer ratings.
+    fitness_data - contains fitness tracker product information, such as brand, battery life, and customer ratings.
 
 The database supports fast queries and future scalability to handle growing data volume from the HealthTrack platform.
 🔍 Key Features
